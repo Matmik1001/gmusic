@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Music",
+  "description": "An AI-enhanced music player with a liquid glass interface, subscription tiers, and an admin panel. Features include interactive lyrics and Gemini-powered playlist generation.",
+  "requestFramePermissions": []
+}
